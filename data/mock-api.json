@@ -1,0 +1,7 @@
+{
+    "monitors": [
+        { "username": "luiz.silva", "password": "2006" },
+        { "username": "maria.santos", "password": "1234" },
+        { "username": "joao.pedro", "password": "5678" }
+    ]
+}
